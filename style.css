@@ -1,0 +1,22 @@
+body  {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: cadetblue;
+    text-align: center;
+    margin:20px;
+}
+
+input[type=text],
+input[type=text]:focus {
+    color:black;
+    border: none;
+    background:white;   
+}
+
+.Completeline {
+    text-decoration: line-through;
+  }
+
+.li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
